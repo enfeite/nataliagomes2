@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+
 <div>
   
   <h1 align="center">
@@ -11,8 +13,8 @@
 
 <div align="center">
   <a href="https://github.com/nataliagomes2">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nataliagomes2&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliagomes2&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nataliagomes2&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliagomes2&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -33,6 +35,14 @@
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+  <div align="center">
+<br><p align="centre"><b>Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{nataliagomes2}/count.svg" /></p> 
+<br></div>
+  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>****
 
 <div align="center">
   <p>Feito com JavaScript. 💡</p>
