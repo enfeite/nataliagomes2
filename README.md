@@ -1,20 +1,19 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bf9eff&height=120&section=header"/>
 
 <div>
   
   <h1 align="center">
-    Olá, Tudo bem? Eu me chamo Natalia. ✨
+    Olá, Tudo bem? Eu me chamo Natalia. 🦑
   </h1>
   
   <p align="center">
     Sou uma programadora intermediária, atualmente focada em projetos relacionado ao
-    <a href="https://discord.com/">Discord 🏆</a>
+    <a href="https://discord.com/">Discord 🐬</a>
 </div>
 
 <div align="center">
   <a href="https://github.com/nataliagomes2">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nataliagomes2&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliagomes2&theme=dark&hide_border=false&&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliagomes2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliagomes2&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
@@ -27,6 +26,8 @@
 
 <div align="center">
   <a href="https://www.instagram.com/nataliagomxs_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/natyzzw" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/RYzUx2yVAT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="mailto:nataliagoomees205@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
@@ -42,7 +43,7 @@
 <br></div>
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bf9eff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dracula&height=120&section=footer"/>
 
 <div align="center">
   <p>Feito com JavaScript. 💡</p>
