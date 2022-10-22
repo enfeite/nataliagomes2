@@ -42,9 +42,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{nataliagomes2}/count.svg" /></p> 
 <br></div>
   
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dracula&height=120&section=footer"/>
-
 <div align="center">
   <p>Feito com JavaScript. 💡</p>
 </div>
