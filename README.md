@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu me chamo Natalia Gomes e estou disposta a te ajudar! 🏓</h1>
 <br>
 
-**Languages and Tools:**<br>
+**Languages and Others:**<br>
 * `Technologies:`<br><br>
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
     ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
