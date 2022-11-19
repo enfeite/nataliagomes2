@@ -21,14 +21,7 @@
     ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
     ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
-<details>
-  <summary>Github Stats</summary>
-<div>
-  <a href="https://github.com/Garoze">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Garoze&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Garoze&layout=compact&langs_count=8&theme=tokyonight"/>
-<div>
-</details>
 
----
-<img src="https://imgur.com/rilHVxA.png"/>
+* `Github Stats:`<br><br>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
