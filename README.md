@@ -1,10 +1,10 @@
 ## 🌺 Olá. Nesse Git vou postar projetos focados no Discord, sendo em sua grande maioria bots com alguma funcionalidade legal.
 
 ```
-Uso somente Javascript (node.js) pra fazer meus projetos, e de vez em quando Python.
+Utilizo apenas Javascript & (node.js) pra fazer meus projetos, e de vez em quando Python.
 ```
 
-🎶 Ouça Twice  no **[Youtube Music](https://music.youtube.com/playlist?list=PL8ZVnmmTgkQmR1-srWhWfTadS3GtVaYUI&feature=share)**.
+🎶 Ouça Twice no **[Youtube Music](https://music.youtube.com/playlist?list=PL8ZVnmmTgkQmR1-srWhWfTadS3GtVaYUI&feature=share)**.
 
 🚀 Entre no meu servidor do Discord: **[discord.gg/](https://discord.gg/servers)**.
 
