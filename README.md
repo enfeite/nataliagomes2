@@ -1,11 +1,18 @@
-## 🌺 Olá. Nesse Git vou postar projetos focados no Discord, sendo em sua grande maioria bots com alguma funcionalidade legal.
+![](https://komarev.com/ghpvc/?username=w6t&color=grey)         
 
-```
-Utilizo apenas Javascript & (node.js) pra fazer meus projetos, e de vez em quando Python.
-```
+<p align="center">
+  <br>
+  <samp>
+    I'm <b><a rel="no follow noopener noreferrer" target="_blank">natalia</a></b>.
+    <br>Discord Bot Developer<br>
+</samp>
 
-🎶 Ouça Twice no **[Youtube Music](https://music.youtube.com/playlist?list=PL8ZVnmmTgkQmR1-srWhWfTadS3GtVaYUI&feature=share)**.
+</p>
+<p align="center">
+  <br><br>
+  <img src="https://discord.c99.nl/widget/theme-4/678007316720910338.png">
+  <br><br>
+  <img src="https://64.media.tumblr.com/9ec7537198ca06a6defd9659c5017a2f/b17ff0c6bb7fc1b6-4f/s1280x1920/8f4b116e79552bb93e8457a2272d5b71371bd2e7.gifv", width="260"/>
+</p>
 
-🚀 Entre no meu servidor do Discord: **[discord.gg/servers](https://discord.com/servers)**.
-
-💸 Precisa de algum bot pro seu servidor ou um código em específico? Basta me chamar no Discord pra negociarmos. Entre no meu servidor acima ou me mande um pedido de amizade: **Natalia#0007**.
+<!--<a href="link" style="text-align: center">
