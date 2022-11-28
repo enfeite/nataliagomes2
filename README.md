@@ -8,4 +8,4 @@ Utilizo apenas Javascript & (node.js) pra fazer meus projetos, e de vez em quand
 
 🚀 Entre no meu servidor do Discord: **[discord.gg/](https://discord.gg/servers)**.
 
- 💸 Precisa de algum bot pro seu servidor ou um código em específico? Basta me chamar no Discord pra negociarmos. Entre no meu servidor acima ou me mande um pedido de amizade: **Natalia#0007**.
+💸 Precisa de algum bot pro seu servidor ou um código em específico? Basta me chamar no Discord pra negociarmos. Entre no meu servidor acima ou me mande um pedido de amizade: **Natalia#0007**.
