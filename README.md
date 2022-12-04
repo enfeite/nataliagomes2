@@ -9,7 +9,7 @@
 
 - 📮 &nbsp; A maioria dos meus projetos estão disponiveis em meu [Github](https://github.com/firstzinha?tab=repositories)
 
-- 🌊 &nbsp; Entre em contato comigo via Discord, ou entre no meu servidor do [Discord Server](https://discord.gg/ShKDs48FAs)
+- 🌊 &nbsp; Entre em contato comigo via Discord, ou entre no meu servidor do [Discord Server](https://discord.gg/PhPvRw5K)
 
 <br>
 
