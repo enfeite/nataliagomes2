@@ -25,11 +25,11 @@
 </p>
 
 ### 📊 Github Stats
-<a href='https://github.com/yVexy/github-stats-transparent'>
+<a href='https://github.com/firstzinha/github-stats-transparent'>
   
 <a href="#">
-                <img height="160em" src="https://github-readme-stats-yngtukzpf-focamacho.vercel.app/api?username=yVexy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-                <img height="160em" src="https://github-readme-stats-yngtukzpf-focamacho.vercel.app/api/top-langs/?username=yVexy&layout=compact&langs_count=7&theme=radical&custom_title=Most%20Used%20Languages%20(Public%20Repos)"/>
+                <img height="160em" src="https://github-readme-stats-yngtukzpf-focamacho.vercel.app/api?username=firstzinha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+                <img height="160em" src="https://github-readme-stats-yngtukzpf-focamacho.vercel.app/api/top-langs/?username=firstzinha&layout=compact&langs_count=7&theme=radical&custom_title=Most%20Used%20Languages%20(Public%20Repos)"/>
                 <br/>
         </a>
  </a>
