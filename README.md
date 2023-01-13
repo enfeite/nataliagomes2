@@ -25,11 +25,4 @@
 </p>
 
 ### 📊 Github Stats
-<a href='https://github.com/firstzinha/github-stats-transparent'>
-  
-<a href="#">
-                <img height="160em" src="https://github-readme-stats-yngtukzpf-focamacho.vercel.app/api?username=firstzinha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-                <img height="160em" src="https://github-readme-stats-yngtukzpf-focamacho.vercel.app/api/top-langs/?username=firstzinha&layout=compact&langs_count=7&theme=radical&custom_title=Most%20Used%20Languages%20(Public%20Repos)"/>
-                <br/>
-        </a>
- </a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=firstzinha&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
